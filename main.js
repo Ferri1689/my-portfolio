@@ -4,7 +4,7 @@ import { makeAccordionActive } from "./accordion.js";
 import { getBscket } from "./basket.js";
 import { makeValidateForm } from "./formValidate.js";
 import { getArraygCard } from "./getArraygCard.js";
-import { createCard } from "./createCard.js";
+import { createCard } from "./CreateCard.js";
 import { sortCards } from "./sosrtCards.js";
 import { filterCards } from "./filterCard.js";
 import { renderingCountAvailability } from "./renderingCountAvailability.js";
