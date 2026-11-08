@@ -1143,28 +1143,28 @@ template {
 
 @font-face {
   font-family: "Noto Sans";
-  src: url("NotoSans-Regular.woff2") format("woff2"), url("../fonts/NotoSans-Regular.woff") format("woff");
+  src: url("NotoSans-Regular.woff2") format("woff2"), url("/NotoSans-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Noto Sans";
-  src: url("NotoSans-Medium.woff2") format("woff2"), url("../fonts/NotoSans-Medium.woff") format("woff");
+  src: url("NotoSans-Medium.woff2") format("woff2"), url("NotoSans-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Noto Sans";
-  src: url("NotoSans-SemiBold.woff2") format("woff2"), url("../fonts/NotoSans-SemiBold.woff") format("woff");
+  src: url("NotoSans-SemiBold.woff2") format("woff2"), url("NotoSans-SemiBold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Noto Sans";
-  src: url("NotoSans-Bold.woff2") format("woff2"), url("../fonts/NotoSans-Bold.woff") format("woff");
+  src: url("NotoSans-Bold.woff2") format("woff2"), url("NotoSans-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
