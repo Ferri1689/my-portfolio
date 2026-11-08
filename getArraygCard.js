@@ -1,7 +1,7 @@
 import { createCard } from "./CreateCard.js";
 
 export async function getArraygCard () {
-    const response = await fetch('./data/data.json' , {
+    const response = await fetch('./data.json' , {
         headers : {
             email: "arseniybro10@gmail.com"
         }
