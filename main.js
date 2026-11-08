@@ -1,16 +1,16 @@
-import { getBurgerMenu } from "./components/burgerMenu.js";
-import { chooseCity } from "./components/chooseCity.js";
-import { makeAccordionActive } from "./components/accordion.js";
-import { getBscket } from "./components/basket.js";
-import { makeValidateForm } from "./components/formValidate.js";
-import { getArraygCard } from "./components/getArraygCard.js";
-import { createCard } from "./components/createCard.js";
-import { sortCards } from "./components/sosrtCards.js";
-import { filterCards } from "./components/filterCard.js";
-import { renderingCountAvailability } from "./components/renderingCountAvailability.js";
-import { showAvailability } from "./components/showAvailability.js";
-import { createSlider } from "./components/slider.js";
-import { pagination } from "./components/pagination.js";
+import { getBurgerMenu } from "burgerMenu.js";
+import { chooseCity } from "chooseCity.js";
+import { makeAccordionActive } from "accordion.js";
+import { getBscket } from "basket.js";
+import { makeValidateForm } from "formValidate.js";
+import { getArraygCard } from "getArraygCard.js";
+import { createCard } from "createCard.js";
+import { sortCards } from "sosrtCards.js";
+import { filterCards } from "filterCard.js";
+import { renderingCountAvailability } from "renderingCountAvailability.js";
+import { showAvailability } from "showAvailability.js";
+import { createSlider } from "slider.js";
+import { pagination } from "pagination.js";
 
 window.addEventListener('DOMContentLoaded', () => {
 getBurgerMenu()
