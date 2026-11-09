@@ -6,7 +6,7 @@ export async function sortCards (tej){
         const cards = []
          for (let i = 0; i < data.length; i++) {
             
-            const card = new createCard(data[i].id, data[i].name, data[i].price, data[i].image.slice(1), data[i].rating, data[i].availability, data[i].goodsOfDay, data[i].type)
+            const card = new createCard(data[i].id, data[i].name, data[i].price, data[i].image, data[i].rating, data[i].availability, data[i].goodsOfDay, data[i].type)
             cards.push(card)
         }
    
