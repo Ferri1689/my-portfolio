@@ -6,7 +6,7 @@
       "new": 11540,
       "old": 15300
     },
-    "image": "./item-1.png",
+    "image": "item-1.png",
     "availability": {
       "moscow": 10,
       "orenburg": 20,
@@ -23,7 +23,7 @@
       "new": 10540,
       "old": 17300
     },
-    "image": "./item-2.png",
+    "image": "./item-2.PNG",
     "availability": {
       "moscow": 0,
       "orenburg": 0,
